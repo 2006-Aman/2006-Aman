@@ -1,17 +1,13 @@
 <div align="center">
 
-<!-- ===== HEADER ===== -->
-<h1>Hi there 👋</h1>
-<h2>I'm an <span style="color:#8b5cf6">AI/ML Student</span></h2>
+# Hi there 👋
+### I'm an AI/ML Student
 
-<p>
 I build AI-powered applications and explore the intersection of<br/>
 Machine Learning, Deep Learning and Generative AI.
-</p>
 
 </div>
 
-<!-- ===== ABOUT BULLETS ===== -->
 - 🔭 Currently working on **AI & GenAI projects**
 - 🌱 Learning **LLMs, RAG, MLOps and Cloud**
 - 💜 Open to collaborate on **AI/ML projects**
@@ -19,61 +15,79 @@ Machine Learning, Deep Learning and Generative AI.
 
 <br/>
 
-<!-- ===== TECH STACK (live icon badges via skillicons.dev) ===== -->
 <div align="center">
 
-### 🛠️ Tech Stack
+### 📊 Profile Stats (live)
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,git,github,vscode,jupyter,docker,aws,linux&theme=dark" />
-</a>
+![Repos](https://img.shields.io/badge/dynamic/json?color=8957e5&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F2006-Aman&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/2006-Aman?color=8957e5&label=Followers&style=for-the-badge&logo=github)
+![Following](https://img.shields.io/badge/dynamic/json?color=8957e5&label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F2006-Aman&style=for-the-badge)
+![Stars](https://img.shields.io/badge/dynamic/json?color=8957e5&label=Total%20Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2F2006-Aman%2Frepos%3Fper_page%3D100&style=for-the-badge)
 
 </div>
 
 <br/>
 
-<!-- ===== LIVE GITHUB STATS ===== -->
+## 🔧 Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+
+**Data Science**
+<br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+
+**Tools & Others**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark" />
+
+**Databases & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,aws,gcp&theme=dark" />
+
+<br/>
+
+## 🚀 Featured Projects
+
+> Replace `repo-name` below with your actual repo names — these cards pull live star/fork counts automatically.
+
+<p align="center">
+<a href="https://github.com/2006-Aman/repo-name-1"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=2006-Aman&repo=repo-name-1&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/2006-Aman/repo-name-2"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=2006-Aman&repo=repo-name-2&theme=radical&hide_border=true" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/2006-Aman/repo-name-3"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=2006-Aman&repo=repo-name-3&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/2006-Aman/repo-name-4"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=2006-Aman&repo=repo-name-4&theme=radical&hide_border=true" /></a>
+</p>
+
+<br/>
+
+## 📈 GitHub Stats
+
 <div align="center">
-
-### 📊 GitHub Stats (live)
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=2006-Aman&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006-Aman&layout=compact&theme=radical&hide_border=true" />
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=2006-Aman&theme=radical&hide_border=true" />
-
 </div>
 
 <br/>
 
-<!-- ===== LIVE SHIELDS.IO SUMMARY BADGES ===== -->
-<div align="center">
+## 🤝 Let's Connect
 
-![Repos](https://img.shields.io/badge/dynamic/json?color=8b5cf6&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F2006-Aman&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/2006-Aman?color=8b5cf6&label=Followers&style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/dynamic/json?color=8b5cf6&label=Total%20Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2F2006-Aman%2Frepos%3Fper_page%3D100&style=for-the-badge)
-
-</div>
-
-<br/>
-
-<!-- ===== SOCIAL LINKS (edit URLs below) ===== -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
-</div>
+*"Code. Train. Innovate. Repeat."*
 
-<br/>
-
-<!-- ===== PROFILE VIEW COUNTER (live) ===== -->
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=2006-Aman&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=2006-Aman&color=8957e5&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
