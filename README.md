@@ -1,225 +1,102 @@
-<div align="center">
+# 👋 Hi there, I'm YOUR NAME!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0ea5e9,50:6366f1,100:8b5cf6&text=Aman&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Student&descAlignY=60" width="100%" />
+### 🤖 AI/ML Student | Machine Learning Enthusiast | GenAI Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hello+World!+I'm+Aman;Full+Stack+Developer;AI%2FML+Student+%7C+Deep+Learning+Enthusiast;React+%7C+Node.js+%7C+MongoDB+%7C+Python;Building+Products+That+Solve+Real+Problems;Always+Learning+%26+Always+Building" />
+<img align="right" alt="AI" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW15dGV0a2NxNHRvZ3l4MmNrbnQ2dW84d3E5NGY5dHVzY3l0OHFqMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=2006-Aman&label=Profile+Views&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/2006-Aman?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/2006-Aman?style=for-the-badge" />
+🚀 Passionate about building intelligent applications using Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+
+- 🔭 Currently working on **AI & GenAI Projects**
+- 🌱 Learning **LLMs, RAG, MLOps & Cloud**
+- 💬 Ask me about **Python, ML, DL, NLP & Computer Vision**
+- 🤝 Open to collaborating on AI/ML projects
+- ⚡ Fun Fact: *I love turning ideas into AI-powered solutions.*
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### 🤖 AI / Machine Learning
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+### 📊 Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### 🧠 LLM & GenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+
+### 🛠️ Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧠 Brain Tumor Classification | CNN model for MRI brain tumor detection |
+| 💬 AI Chatbot (LLM + RAG) | AI chatbot with LangChain & Pinecone |
+| 😊 Sentiment Analysis | NLP model for Twitter sentiment analysis |
+| 🚗 Object Detection | YOLOv8 real-time object detection |
+| 🎬 Movie Recommendation | ML-powered recommendation engine |
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+# 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
-</div>
+---
+
+## ☕ Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
 
 ---
 
-# 💫 About me
-
-```javascript
-const aman = {
-  role: "Full Stack Developer & AI/ML Student",
-  location: "Punjab, India 🇮🇳",
-
-  frontend: [
-    "React",
-    "Tailwind CSS",
-    "JavaScript",
-    "TypeScript"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "Redis"
-  ],
-
-  aiml: [
-    "Python",
-    "NumPy",
-    "Deep Learning",
-    "Neural Networks"
-  ],
-
-  currentlyLearning: [
-    "Backpropagation & Gradient Descent",
-    "Model Architecture",
-    "System Design",
-    "Cloud Technologies"
-  ],
-
-  goal: "Build impactful products at the intersection of full-stack dev and AI"
-};
-```
-
----
-
-## 🚀 Developer journey
-
-🎓 AI/ML student, currently deep in **neural networks** — building models from scratch with NumPy
-
-💻 Full-stack developer, MERN stack + Python
-
-⚡ Building **snipurl** (a URL shortener) and an **AI-powered resume analyzer**
-
-🌱 Continuously learning deep learning fundamentals, from perceptrons to backprop
-
-🎯 Focused on writing clean, scalable code
-
-🎮 When not coding, probably gaming
-
-🤝 Open to internships, collaborations, and open-source contributions
-
----
-
-## 🛠 Tech stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript,ts" />
-
-### Backend & database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-### Tools & platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter" />
-
-</div>
-
----
-
-## ⚡ Current focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Building
-
-* snipurl — URL shortener (MERN + Redis)
-* AI resume analyzer
-* Neural network from scratch (NumPy)
-* Portfolio projects
-
-</td>
-
-<td width="50%">
-
-### 📚 Learning
-
-* Backpropagation & gradient descent
-* Deep learning architectures
-* System design
-* DevOps fundamentals
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2006-Aman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2006-Aman&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006-Aman&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2006-Aman&theme=tokyo-night&hide_border=true&radius=16" width="100%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=2006-Aman&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## 🌐 Connect with me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/your-linkedin-handle">
-<img src="https://img.shields.io/badge/LinkedIn-Aman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-Aman-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-Aman-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/2006-Aman">
-<img src="https://img.shields.io/badge/GitHub-2006--Aman-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 💭 Random dev quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎵 Coding mindset
-
-<div align="center">
-
-```text
-while(alive){
-    learn();
-    build();
-    improve();
-    repeat();
-}
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Dream big. Build bigger.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:6366f1,100:8b5cf6"/>
-
-</div>
+<h3 align="center">
+💜 Code. Train. Innovate. Repeat.
+</h3>
