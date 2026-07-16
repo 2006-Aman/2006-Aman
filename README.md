@@ -1,116 +1,225 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:22d3ee&height=200&section=header&text=Hi%20There,%20I'm%20Aman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0ea5e9,50:6366f1,100:8b5cf6&text=Aman&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Student&descAlignY=60" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hello+World!+I'm+Aman;Full+Stack+Developer;AI%2FML+Student+%7C+Deep+Learning+Enthusiast;React+%7C+Node.js+%7C+MongoDB+%7C+Python;Building+Products+That+Solve+Real+Problems;Always+Learning+%26+Always+Building" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=2006-Aman&label=Profile+Views&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/2006-Aman?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/2006-Aman?style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+# 💫 About me
+
+```javascript
+const aman = {
+  role: "Full Stack Developer & AI/ML Student",
+  location: "Punjab, India 🇮🇳",
+
+  frontend: [
+    "React",
+    "Tailwind CSS",
+    "JavaScript",
+    "TypeScript"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Redis"
+  ],
+
+  aiml: [
+    "Python",
+    "NumPy",
+    "Deep Learning",
+    "Neural Networks"
+  ],
+
+  currentlyLearning: [
+    "Backpropagation & Gradient Descent",
+    "Model Architecture",
+    "System Design",
+    "Cloud Technologies"
+  ],
+
+  goal: "Build impactful products at the intersection of full-stack dev and AI"
+};
+```
+
+---
+
+## 🚀 Developer journey
+
+🎓 AI/ML student, currently deep in **neural networks** — building models from scratch with NumPy
+
+💻 Full-stack developer, MERN stack + Python
+
+⚡ Building **snipurl** (a URL shortener) and an **AI-powered resume analyzer**
+
+🌱 Continuously learning deep learning fundamentals, from perceptrons to backprop
+
+🎯 Focused on writing clean, scalable code
+
+🎮 When not coding, probably gaming
+
+🤝 Open to internships, collaborations, and open-source contributions
+
+---
+
+## 🛠 Tech stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript,ts" />
+
+### Backend & database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+### Tools & platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter" />
+
+</div>
+
+---
+
+## ⚡ Current focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Building
+
+* snipurl — URL shortener (MERN + Redis)
+* AI resume analyzer
+* Neural network from scratch (NumPy)
+* Portfolio projects
+
+</td>
+
+<td width="50%">
+
+### 📚 Learning
+
+* Backpropagation & gradient descent
+* Deep learning architectures
+* System design
+* DevOps fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2006-Aman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2006-Aman&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006-Aman&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2006-Aman&theme=tokyo-night&hide_border=true&radius=16" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=2006-Aman&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/your-linkedin-handle">
+<img src="https://img.shields.io/badge/LinkedIn-Aman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-Aman-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-Aman-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://github.com/2006-Aman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Exploring+Deep+Learning+%26+Neural+Networks;MERN+Stack+%2B+Python+%2B+ML;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/GitHub-2006--Aman-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-### About me
-
-- 🎓 AI/ML student, currently diving deep into **Neural Networks**, forward/backward propagation, and building models from scratch with NumPy
-- 💻 Full-stack developer — MERN stack + Python
-- 🚀 Currently building **snipurl** (a URL shortener) and an **AI-powered resume analyzer**
-- 🌱 Learning: Deep Learning fundamentals, model architecture, gradient descent
-- 🎮 When not coding, probably gaming
-- 📫 Reach me: see badges below
-
-<br/>
-
-### Connect with me
+## 💭 Random dev quote
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=vercel&logoColor=22D3EE" />
-</a>
-<a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0d1b2a?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
-</a>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
-<br/>
+---
 
-### Tech stack
+## 🎵 Coding mindset
 
 <div align="center">
 
-**Languages & ML/DL**
-
-![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=22D3EE)
-![NumPy](https://img.shields.io/badge/NumPy-0d1b2a?style=for-the-badge&logo=numpy&logoColor=22D3EE)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1b2a?style=for-the-badge&logo=tensorflow&logoColor=22D3EE)
-![Pandas](https://img.shields.io/badge/Pandas-0d1b2a?style=for-the-badge&logo=pandas&logoColor=22D3EE)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0d1b2a?style=for-the-badge&logo=react&logoColor=22D3EE)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0d1b2a?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=22D3EE)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1b2a?style=for-the-badge&logo=typescript&logoColor=22D3EE)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1b2a?style=for-the-badge&logo=node.js&logoColor=22D3EE)
-![Express](https://img.shields.io/badge/Express-0d1b2a?style=for-the-badge&logo=express&logoColor=22D3EE)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1b2a?style=for-the-badge&logo=mongodb&logoColor=22D3EE)
-![Redis](https://img.shields.io/badge/Redis-0d1b2a?style=for-the-badge&logo=redis&logoColor=22D3EE)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=22D3EE)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1b2a?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1b2a?style=for-the-badge&logo=jupyter&logoColor=22D3EE)
+```text
+while(alive){
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
 
 </div>
 
-<br/>
-
-### GitHub stats
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=2006-Aman&show_icons=true&theme=midnight-purple&bg_color=0d1b2a&title_color=22d3ee&icon_color=22d3ee&text_color=e6f7ff&border_color=22d3ee&hide_border=false" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2006-Aman&theme=midnight-purple&background=0d1b2a&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&border=22d3ee" width="48%" />
+### 🚀 Dream big. Build bigger.
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006-Aman&layout=compact&theme=midnight-purple&bg_color=0d1b2a&title_color=22d3ee&text_color=e6f7ff&border_color=22d3ee&hide_border=false" width="48%" />
-
-</div>
-
-<br/>
-
-### Featured projects
-
-<div align="center">
-
-<a href="https://github.com/2006-Aman/snipurl">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2006-Aman&repo=snipurl&theme=midnight-purple&bg_color=0d1b2a&title_color=22d3ee&text_color=e6f7ff&border_color=22d3ee" width="47%" />
-</a>
-<a href="https://github.com/2006-Aman/resume-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2006-Aman&repo=resume-analyzer&theme=midnight-purple&bg_color=0d1b2a&title_color=22d3ee&text_color=e6f7ff&border_color=22d3ee" width="47%" />
-</a>
-<a href="https://github.com/2006-Aman/student-dropout-predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2006-Aman&repo=student-dropout-predictor&theme=midnight-purple&bg_color=0d1b2a&title_color=22d3ee&text_color=e6f7ff&border_color=22d3ee" width="47%" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=2006-Aman&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0d1b2a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:6366f1,100:8b5cf6"/>
 
 </div>
