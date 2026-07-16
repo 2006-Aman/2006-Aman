@@ -1,0 +1,80 @@
+<svg width="1000" height="360" viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0b18"/>
+      <stop offset="100%" stop-color="#12102a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="nodeglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="360" rx="18" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="999" height="359" rx="18" fill="none" stroke="#2a2748" stroke-width="1"/>
+
+  <!-- Left text block -->
+  <g font-family="Verdana, sans-serif">
+    <text x="48" y="90" font-size="34" font-weight="bold" fill="#f5f3ff">Hi there,</text>
+    <text x="48" y="130" font-size="34" font-weight="bold" fill="url(#accent)">I'm Aman — AI/ML Student</text>
+
+    <text x="48" y="168" font-size="15" fill="#b8b5d1">I build AI-powered apps and explore the intersection of</text>
+    <text x="48" y="190" font-size="15" fill="#b8b5d1">Machine Learning, Deep Learning and full-stack development.</text>
+
+    <circle cx="54" cy="222" r="3" fill="#22d3ee"/>
+    <text x="66" y="227" font-size="14" fill="#d7d5ea">Currently working on AI + full-stack projects</text>
+
+    <circle cx="54" cy="250" r="3" fill="#22d3ee"/>
+    <text x="66" y="255" font-size="14" fill="#d7d5ea">Learning neural networks, backprop &amp; model architecture</text>
+
+    <circle cx="54" cy="278" r="3" fill="#22d3ee"/>
+    <text x="66" y="283" font-size="14" fill="#d7d5ea">Open to collaborating on AI/ML projects</text>
+
+    <circle cx="54" cy="306" r="3" fill="#22d3ee"/>
+    <text x="66" y="311" font-size="14" fill="#d7d5ea">Ask me about Python, ML, DL, NLP, Computer Vision</text>
+  </g>
+
+  <!-- Right: neural network / brain graphic -->
+  <g filter="url(#soft)" opacity="0.5">
+    <circle cx="780" cy="180" r="120" fill="url(#nodeglow)"/>
+  </g>
+  <g stroke="#6d63c9" stroke-width="1.2" opacity="0.65">
+    <line x1="700" y1="110" x2="760" y2="90"/>
+    <line x1="700" y1="110" x2="680" y2="160"/>
+    <line x1="760" y1="90" x2="830" y2="100"/>
+    <line x1="760" y1="90" x2="800" y2="150"/>
+    <line x1="680" y1="160" x2="720" y2="220"/>
+    <line x1="680" y1="160" x2="800" y2="150"/>
+    <line x1="800" y1="150" x2="850" y2="190"/>
+    <line x1="800" y1="150" x2="830" y2="100"/>
+    <line x1="720" y1="220" x2="790" y2="250"/>
+    <line x1="720" y1="220" x2="800" y2="150"/>
+    <line x1="850" y1="190" x2="880" y2="240"/>
+    <line x1="850" y1="190" x2="790" y2="250"/>
+    <line x1="790" y1="250" x2="850" y2="270"/>
+    <line x1="830" y1="100" x2="890" y2="130"/>
+    <line x1="890" y1="130" x2="850" y2="190"/>
+  </g>
+  <g>
+    <circle cx="700" cy="110" r="5" fill="#22d3ee"/>
+    <circle cx="760" cy="90" r="6" fill="#a78bfa"/>
+    <circle cx="830" cy="100" r="5" fill="#22d3ee"/>
+    <circle cx="890" cy="130" r="4" fill="#8b5cf6"/>
+    <circle cx="680" cy="160" r="6" fill="#a78bfa"/>
+    <circle cx="800" cy="150" r="7" fill="#f472b6"/>
+    <circle cx="850" cy="190" r="5" fill="#22d3ee"/>
+    <circle cx="720" cy="220" r="6" fill="#a78bfa"/>
+    <circle cx="790" cy="250" r="6" fill="#8b5cf6"/>
+    <circle cx="880" cy="240" r="4" fill="#22d3ee"/>
+    <circle cx="850" cy="270" r="5" fill="#a78bfa"/>
+  </g>
+
+  <text x="770" y="330" font-family="Verdana, sans-serif" font-size="12" fill="#726e99" text-anchor="middle">Neural network · always learning</text>
+</svg>
