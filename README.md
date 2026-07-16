@@ -1,93 +1,145 @@
-<div align="center">
+```markdown
+<h1 align="center">Hi 👋, I'm Aman</h1>
 
-# Hi there 👋
-### I'm an AI/ML Student
-
-I build AI-powered applications and explore the intersection of<br/>
-Machine Learning, Deep Learning and Generative AI.
-
-</div>
-
-- 🔭 Currently working on **AI & GenAI projects**
-- 🌱 Learning **LLMs, RAG, MLOps and Cloud**
-- 💜 Open to collaborate on **AI/ML projects**
-- 💬 Ask me about **Python, ML, DL, NLP, Computer Vision**
-
-<br/>
-
-<div align="center">
-
-### 📊 Profile Stats (live)
-
-![Repos](https://img.shields.io/badge/dynamic/json?color=8957e5&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F2006-Aman&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/2006-Aman?color=8957e5&label=Followers&style=for-the-badge&logo=github)
-![Following](https://img.shields.io/badge/dynamic/json?color=8957e5&label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F2006-Aman&style=for-the-badge)
-![Stars](https://img.shields.io/badge/dynamic/json?color=8957e5&label=Total%20Stars&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2F2006-Aman%2Frepos%3Fper_page%3D100&style=for-the-badge)
-
-</div>
-
-<br/>
-
-## 🔧 Tech Stack
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
-
-**Data Science**
-<br/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
-
-**Tools & Others**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark" />
-
-**Databases & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,aws,gcp&theme=dark" />
-
-<br/>
-
-## 🚀 Featured Projects
-
-> Replace `repo-name` below with your actual repo names — these cards pull live star/fork counts automatically.
+<h3 align="center">🤖 AI & Machine Learning Student</h3>
 
 <p align="center">
-<a href="https://github.com/2006-Aman/repo-name-1"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=2006-Aman&repo=repo-name-1&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/2006-Aman/repo-name-2"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=2006-Aman&repo=repo-name-2&theme=radical&hide_border=true" /></a>
+Building intelligent AI solutions with Python, Machine Learning, Deep Learning, and Generative AI.
 </p>
+
 <p align="center">
-<a href="https://github.com/2006-Aman/repo-name-3"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=2006-Aman&repo=repo-name-3&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/2006-Aman/repo-name-4"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=2006-Aman&repo=repo-name-4&theme=radical&hide_border=true" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
-<br/>
+---
 
-## 📈 GitHub Stats
+# ✨ About Me
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=2006-Aman&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006-Aman&layout=compact&theme=radical&hide_border=true" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2006-Aman&theme=radical&hide_border=true" />
-</div>
+- 🎓 AI & Machine Learning Student
+- 🌱 Currently learning **Deep Learning, LLMs, RAG & Generative AI**
+- 💻 Building AI, Python and Data Science projects
+- 🤝 Open to collaborating on AI/ML projects
+- 📫 Reach me at **YOUR_EMAIL**
 
-<br/>
+---
 
-## 🤝 Let's Connect
+# 💻 Tech Stack
 
-<div align="center">
+### 👨‍💻 Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-*"Code. Train. Innovate. Repeat."*
+### 🤖 AI / ML
 
-![Profile views](https://komarev.com/ghpvc/?username=2006-Aman&color=8957e5&style=for-the-badge&label=PROFILE+VIEWS)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-</div>
+### 📊 Data Science
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧠 Brain Tumor Detection | CNN model for MRI image classification |
+| 💬 AI Chatbot (LLM + RAG) | Chatbot built using LangChain & LLMs |
+| 😊 Sentiment Analysis | NLP-based sentiment classifier |
+| 🚗 Object Detection | YOLOv8 real-time object detection |
+| 🎬 Movie Recommendation | Machine Learning recommendation system |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+</p>
+
+<h3 align="center">
+💜 Code. Train. Innovate. Repeat.
+</h3>
+```
