@@ -17,7 +17,7 @@
 
 ## 🧠 About me
 
-```javascript
+
 const aman = {
   role: "AI/ML Student & Full Stack Developer",
   location: "Punjab, India 🇮🇳",
@@ -32,8 +32,7 @@ const aman = {
   ],
   funFact: "probably gaming when not coding 🎮",
   openTo: ["internships", "collaborations", "open-source"]
-};
-```
+}
 
 - 🎓 AI/ML student — building neural networks from scratch with NumPy
 - 💻 Full-stack developer — MERN stack + Python
