@@ -1,4 +1,4 @@
-# Hi there, I'm Aman 👋
+
 
 ## 💫 About Me
 I'm Aman, an AI/ML student who also builds full-stack web applications. I enjoy combining <br>
