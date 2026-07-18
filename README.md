@@ -1,229 +1,52 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0ea5e9,50:6366f1,100:8b5cf6&text=Aman&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Student&descAlignY=60" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hello+World!+I'm+Aman;Full+Stack+Developer;AI%2FML+Student+%7C+Deep+Learning+Enthusiast;React+%7C+Node.js+%7C+MongoDB+%7C+Python;Building+Products+That+Solve+Real+Problems;Always+Learning+%26+Always+Building" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=2006-Aman&label=Profile+Views&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/2006-Aman?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/2006-Aman?style=for-the-badge" />
-</p>
-
-</div>
-
----
-
-# 💫 About Me
-
-```javascript
-const aman = {
-  role: "Full Stack Developer & AI/ML Student",
-  location: "Punjab, India 🇮🇳",
-
-  frontend: [
-    "React",
-    "JavaScript",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "Redis"
-  ],
-
-  aiml: [
-    "Python",
-    "NumPy",
-    "TensorFlow",
-    "Neural Networks"
-  ],
-
-  currentlyLearning: [
-    "Backpropagation & Gradient Descent",
-    "Deep Learning Architectures",
-    "System Design",
-    "Cloud Technologies"
-  ],
-
-  goal: "Build impactful products at the intersection of full-stack dev and AI"
-};
-```
-
----
-
-## 🚀 Developer Journey
-
-🎓 AI/ML student, currently deep in **neural networks** — building models from scratch with NumPy
-
-💻 Full-stack developer, MERN stack + Python
-
-⚡ Building **snipurl** (URL shortener) and an **AI-powered resume analyzer**
-
-🌱 Continuously learning deep learning fundamentals, from perceptrons to backprop
-
-🎯 Focused on writing clean, scalable, and maintainable code
-
-🎮 When not coding, probably gaming
-
-🤝 Open to internships, collaborations, and open-source contributions
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter" />
-
-</div>
-
----
-
-## ⚡ Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Building
-
-* snipurl — URL shortener (MERN + Redis)
-* AI-powered resume analyzer
-* Neural network from scratch (NumPy)
-* Portfolio projects
-
-</td>
-
-<td width="50%">
-
-### 📚 Learning
-
-* Backpropagation & gradient descent
-* Deep learning architectures
-* System design
-* DevOps fundamentals
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2006-Aman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2006-Aman&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006-Aman&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2006-Aman&theme=tokyo-night&hide_border=true&radius=16" width="100%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=2006-Aman&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/your-linkedin-handle">
-<img src="https://img.shields.io/badge/LinkedIn-Aman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-Aman-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-Aman-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/2006-Aman">
-<img src="https://img.shields.io/badge/GitHub-2006--Aman-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎵 Coding Mindset
-
-<div align="center">
-
-```text
-while(alive){
-    learn();
-    build();
-    improve();
-    repeat();
-}
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Dream Big. Build Bigger.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:6366f1,100:8b5cf6"/>
-
-</div>
+# Hi there, I'm Aman 👋
+
+## 💫 About Me
+I'm Aman, an AI/ML student who also builds full-stack web applications. I enjoy combining <br>
+machine learning with practical, real-world problem-solving — from predictive models to <br>
+complete end-to-end web apps with a UI, backend, and database.<br><br>
+I've worked on projects like **Student Dropout Predictor**, an ML-based system to identify <br>
+at-risk students early, and **Code Radar Solutions**, a collection of coding problem <br>
+solutions. I'm currently deepening my skills in machine learning, data science, and <br>
+full-stack development with modern JS frameworks.<br><br>
+Always excited to collaborate on AI/ML, full-stack, and data-driven projects!
+
+## 🌐 Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2006-Aman)
+<!-- Add your other social links here, e.g. LinkedIn, Instagram, X -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-mangla-4330ab324/?skipRedirect=true)
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL) -->
+
+## 💻 Tech Stack:
+
+**AI/ML & Data**<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Frontend**<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**<br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=2006-Aman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=2006-Aman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=2006-Aman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
